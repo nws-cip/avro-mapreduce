@@ -4,7 +4,7 @@
 	<groupId>org.apache.avro</groupId>
 	<artifactId>avro-mapreduce</artifactId>
 	<packaging>jar</packaging>
-	<version>0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Avro MapReduce</name>
     <parent>
          <groupId>uk.co.newsint.cip</groupId>
